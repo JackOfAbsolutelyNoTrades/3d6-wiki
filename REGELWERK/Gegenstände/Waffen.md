@@ -1,17 +1,17 @@
 ## Einfache Waffen
 
 #### einfache Nahkampfwaffen
-| Waffe        | Kosten | Beschreibung | Schaden (W6)  | Eigenschaften           |
-| ------------ | ------ | ------------ | ------------- | ----------------------- |
-| Dolch        | 5 G    |              | 1w6 [[Stich]] | [[Leicht]], [[Finesse]] |
-| Kurzschwert  | 10 G   |              | 1W6 [[Hieb]]  | [[Finesse]]             |
-| Streitkolben | 5 G    |              | 1W6 [[Wucht]] | —                       |
-| Handaxt      | 5 G    |              | 1W6 [[Hieb]]  | [[Werfbar]] (4/12)      |
-| Speer        | 15 G   |              | 1W6 [[Stich]] |                         |
-| Sichel       | 15 G   |              | 1W6 [[Hieb]]  | [[Leicht]]              |
-| Keule        | 5 G    |              | 1W6 [[Wucht]] | —                       |
+| Waffe        | Kosten | Beschreibung                                                           | Schaden (W6)  | Eigenschaften           |
+| ------------ | ------ | ---------------------------------------------------------------------- | ------------- | ----------------------- |
+| Dolch        | 5 G    | Kurze, handliche Stichwaffe. Gilt im Fernkampf als Improvisierte Waffe | 1w6 [[Stich]] | [[Leicht]], [[Finesse]] |
+| Kurzschwert  | 10 G   |                                                                        | 1W6 [[Hieb]]  | [[Finesse]]             |
+| Streitkolben | 5 G    |                                                                        | 1W6 [[Wucht]] | —                       |
+| Handaxt      | 5 G    |                                                                        | 1W6 [[Hieb]]  | [[Werfbar]] (4/12)      |
+| Speer        | 15 G   |                                                                        | 1W6 [[Stich]] |                         |
+| Sichel       | 15 G   |                                                                        | 1W6 [[Hieb]]  | [[Leicht]]              |
+| Keule        | 5 G    |                                                                        | 1W6 [[Wucht]] | —                       |
 
-Kurze, handliche Stichwaffe. Gilt im Fernkampf als Improvisierte Waffe
+
 ### einfache Fernkampfwaffen
 
 | Waffe        | Kosten | Beschreibung                                                                             | Schaden (W6)  | Eigenschaften                                   |
