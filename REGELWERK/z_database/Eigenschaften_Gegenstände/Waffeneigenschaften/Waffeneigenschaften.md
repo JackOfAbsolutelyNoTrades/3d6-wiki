@@ -1,3 +1,7 @@
+---
+publish: "false"
+---
+
 ```folder-overview
 id: bbb5e569-f16f-4e25-b9ad-34b4d1518c96
 folderPath: ""
