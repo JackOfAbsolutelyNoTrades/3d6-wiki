@@ -1,3 +1,5 @@
+Dies hier ist die Standardverteilung von Attributspunkten, falls du nicht würfeln möchtest oder einfach eine abgerundete Erfahrung mit Stärken und Schwächen.
+
 16 
 12
 9
