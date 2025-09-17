@@ -1,3 +1,6 @@
+publish: false
+
+
 ```folder-overview
 id: 60cef489-d437-42fe-9a2b-6ea9174eaddb
 folderPath: REGELWERK/Klassen/Seelensteine
@@ -19,6 +22,7 @@ disableCollapseIcon: true
 ```
 
 --- 
+
 
 
 ### Splitterklassen (Unterklassen)
