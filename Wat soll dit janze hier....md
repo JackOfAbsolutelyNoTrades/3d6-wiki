@@ -1,6 +1,3 @@
----
-publish: "true"
----
 …fragt man sich schnell. Aber keine Sorge – das hier ist einfach, direkt und macht Bock.
 
 **Mein Ziel mit diesem Spiel:**
