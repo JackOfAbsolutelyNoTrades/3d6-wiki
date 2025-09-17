@@ -1,7 +1,12 @@
 +1 Konstitution
+
 +3d6 HP je Stufe
+
+
 Du kannst alle [[Waffen#Einfache Waffen|einfachen Waffen]] und [[Vielseitig|vielseitigen Waffen]] benutzen.
+
 Du kannst alle Rüstungen und alle [[Rüstung#Schilde|Schilde]] benutzen.
+
 +1 maximale Trefferpunkte pro Stufe.
 
 
@@ -19,7 +24,7 @@ Erhöhe Attributwerte insgesamt um 2.
 Stufe 5: 
 Wähle 1 [[Waffenmeisterschaft|Waffenmeisterschaft]] und eine [[Rüstung#Schilde|Schildfertigkeit]]
 
-
+---
 
 Splitterklassen:
 
