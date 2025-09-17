@@ -1,0 +1,1 @@
+![[REGELWERK/Klassen/Seelensteine/Magier|Magier]]
