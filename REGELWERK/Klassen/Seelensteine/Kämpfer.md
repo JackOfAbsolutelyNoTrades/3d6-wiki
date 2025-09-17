@@ -1,12 +1,16 @@
+
 +1 Stärke 
 
 +2d6 HP je Stufe
+
+---
 
 
 Du kannst alle [[Waffen]] benutzen.
 
 Du kannst Leder und Kettenrüstung tragen und [[Rüstung#Einhandschild|einhändigen Schilde]] benutzen.
 
+---
 
 Stufe 2:
 1x Pro Kampf darfst du den Schaden deiner Waffe erneut würfeln.
