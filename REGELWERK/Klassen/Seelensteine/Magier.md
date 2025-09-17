@@ -1,8 +1,13 @@
 
 +1 Wille  
+
 +1d6 HP je Stufe
+
+
 Du kannst alle [[Zaubergegenstände]] verwenden. 
+
 Du kannst nur Lederrüstung tragen.
+
 Du kannst nur [[REGELWERK/Gegenstände/Waffen#Einfache Waffen|einfache Waffen]] nutzen.
 
 
@@ -20,7 +25,7 @@ Erhöhe Attributwerte insgesamt um 2.
 
 Stufe 5: 
 
-
+---
 
 Splitterklassen:
 
