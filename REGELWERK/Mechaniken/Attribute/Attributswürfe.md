@@ -5,12 +5,12 @@ Das Ergebnis wird mit einen passenden Herausforderungsgrad verglichen.
 
 
 | Herausforderung | Schwellenwert |
-| --------------- | ------------- |
-| alltäglich      | 6             |
-| leicht          | 9             |
-| moderat         | 12            |
-| herausfordernd  | 15            |
-| sehr schwierig  | 18            |
+| :-------------: | :-----------: |
+|   alltäglich    |       6       |
+|     leicht      |       9       |
+|     moderat     |      12       |
+| herausfordernd  |      15       |
+| sehr schwierig  |      18       |
 
-- Kritischer Erfolg: 3 x 3, 4 oder 5  gewürfelt
-- Patzer: 3×1 oder 2 gewürfelt
+- Volltreffer: 333, 444, 555 oder 666 gewürfelt
+- Patzer: 111 oder 222 gewürfelt
