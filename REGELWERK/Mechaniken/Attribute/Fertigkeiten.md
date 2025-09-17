@@ -21,4 +21,5 @@ Die Fertigkeiten einer Kreatur gewähren ihr einen Bonus von +2 auf diese Attrib
 | Last Stand (KON)         | Gegen den Tod bist du besser dran                                                  |
 |                          |                                                                                    |
 
+Sprich mit deinem DM, falls dir eine Fertigkeit einfällt, die hier nicht aufgelistet ist, die du aber gerne hättest. 
 
