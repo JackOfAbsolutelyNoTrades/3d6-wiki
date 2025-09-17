@@ -6,9 +6,9 @@ Dies hier ist die Standardverteilung von Attributspunkten, falls du nicht würfe
 7
 
 | Wert | Modifikator |
-| ---- | ----------- |
-| 14   | +1          |
-| 11   | 0           |
-| 9    | 0           |
-| 7    | -1          |
+| :--: | :---------: |
+|  14  |     +1      |
+|  11  |      0      |
+|  9   |      0      |
+|  7   |     -1      |
 
