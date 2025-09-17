@@ -1,3 +1,6 @@
+
+publish: false
+
 ```folder-overview
 id: 6879b837-a8bf-4be3-a601-a7c5f425f829
 folderPath: ""
