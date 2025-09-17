@@ -1,3 +1,7 @@
+---
+publ: "false"
+---
+
 ... dat fragt man sich schnell. 
 
 Meine Ziele mit dieser Idee: 
