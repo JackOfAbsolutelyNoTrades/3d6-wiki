@@ -1,0 +1,1 @@
+Du unterstützt ein verbündetes Ziel bei einer von dir definierten Aktion. Wenn das Ziel diese Aktion durchführt, darf es mit [[Vorteil]] würfeln.
