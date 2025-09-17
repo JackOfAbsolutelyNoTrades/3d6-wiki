@@ -18,6 +18,6 @@ RK 14
 
 ## Angriffe
 
-- Augenstrahl, +3, 1w6 [[Geist]]
+- Augenstrahl, +3, 1w6 [[Nekrotisch]]
     
 - Tentakel, +2, 1w6 [[Wucht]] + halbe Bewegungsrate für 1 Runde
