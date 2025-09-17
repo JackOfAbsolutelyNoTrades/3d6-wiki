@@ -1,0 +1,1 @@
+Der erhaltene Schaden wird um den Wert reduziert, mindestens aber 1 Schaden verbleibt. 
