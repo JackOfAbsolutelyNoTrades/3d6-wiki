@@ -1,5 +1,5 @@
 ---
-publ: "false"
+publish: "false"
 ---
 
 ... dat fragt man sich schnell. 
