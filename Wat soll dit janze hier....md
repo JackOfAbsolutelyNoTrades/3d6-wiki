@@ -1,10 +1,15 @@
 ---
-publish: "false"
+publish: "true"
 ---
+…fragt man sich schnell. Aber keine Sorge – das hier ist einfach, direkt und macht Bock.
 
-... dat fragt man sich schnell. 
+**Mein Ziel mit diesem Spiel:**
 
-Meine Ziele mit dieser Idee: 
-Zugänglich - nur d6 ("Standartwürfel") werden benötigt 
-Verständlich - klare Sätze, einfach beschriebene Effekte
-Toolkit - erweiterbar in jede Richtung (wilder Westen, Horror, Cyberpunk, etc. )
+- **Zugänglich:** Alles, was du brauchst, sind normale Würfel (W6) – mehr nicht.
+    
+- **Verständlich:** Klare Regeln, einfache Sprache, keine unnötigen Hürden.
+    
+- **Erweiterbar:** Ob Wilder Westen, düsterer Horror oder Neon-Cyberpunk – dieses Toolkit lässt sich in jede Richtung biegen.
+    
+
+Ein TTRPG für alle, die direkt loslegen wollen – ohne 300 Seiten Regelwerk. Einfach rein, Würfel rollen, Spaß haben
