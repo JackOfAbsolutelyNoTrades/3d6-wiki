@@ -1,7 +1,9 @@
+
 +1 Konstitution
 
 +3d6 HP je Stufe
 
+---
 
 Du kannst alle [[Waffen#Einfache Waffen|einfachen Waffen]] und [[Vielseitig|vielseitigen Waffen]] benutzen.
 
@@ -9,6 +11,7 @@ Du kannst alle Rüstungen und alle [[Rüstung#Schilde|Schilde]] benutzen.
 
 +1 maximale Trefferpunkte pro Stufe.
 
+---
 
 Stufe 2: 
 Wenn du einen Zauberslot wegkreuzen müsstest, kannst du dich entscheiden, das nicht zu tun. 1x/Tag
