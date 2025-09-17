@@ -3,6 +3,7 @@
 
 +1d6 HP je Stufe
 
+---
 
 Du kannst alle [[Zaubergegenstände]] verwenden. 
 
@@ -11,6 +12,7 @@ Du kannst nur Lederrüstung tragen.
 Du kannst nur [[REGELWERK/Gegenstände/Waffen#Einfache Waffen|einfache Waffen]] nutzen.
 
 
+---
 
 Stufe 2: 
 Wenn du einen Zauberslot verlieren würdest, kannst du dich entscheiden, das zu verhindern. 1x/Tag
