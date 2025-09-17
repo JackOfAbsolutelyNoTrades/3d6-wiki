@@ -4,7 +4,7 @@ cssclasses:
 banner: "![[home.jpg]]"
 banner_x: 0.5
 banner_y: 0
-publish: "true"
+publish: "false"
 ---
 
 # Klassen
