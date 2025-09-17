@@ -1,11 +1,15 @@
+
 +1 GES 
 
 +2d6 HP je Stufe
 
+---
 
 Du kannst alle [[Waffen#Einfache Waffen|einfachen Waffen]] und Waffen mit [[Finesse]] nutzen.
 
 Du kannst Lederrüstung und Kettenrüstung tragen. 
+
+---
 
 Stufe 2: 
 Hast du [[Vorteil]] auf deinen Angriff, addiere deine Stufe auf deinen Schaden. 
