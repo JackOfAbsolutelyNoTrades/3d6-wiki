@@ -14,9 +14,8 @@ Du kannst alle Rüstungen und alle [[Rüstung#Schilde|Schilde]] benutzen.
 ---
 
 Stufe 2: 
-Wenn du einen Zauberslot wegkreuzen müsstest, kannst du dich entscheiden, das nicht zu tun. 1x/Tag
-
-Du kannst Zaubersprüche von einem Gegenstand in einen anderen übertragen, sofern du die erforderlichen Goldkosten zum Opfern aufbringen kannst. 
+Wenn du einen Zauberslot wegkreuzen müsstest, kannst du dich entscheiden, das nicht zu tun. 
+1x/Tag. Du kannst Zaubersprüche von einem Gegenstand in einen anderen übertragen, sofern du die erforderlichen Goldkosten zum Opfern aufbringen kannst. 
 
 Stufe 3: 
 Wähle deine [[Splitterklasse]].
