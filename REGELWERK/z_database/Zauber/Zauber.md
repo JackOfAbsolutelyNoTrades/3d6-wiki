@@ -1,3 +1,8 @@
+---
+publish: "false"
+---
+
+
 ```folder-overview
 id: 5347f1a7-6122-4760-94ac-1cc3cf195bf2
 folderPath: z_database/Zauber/Zauberschulen
