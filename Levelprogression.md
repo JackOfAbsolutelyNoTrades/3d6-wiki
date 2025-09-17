@@ -1,3 +1,7 @@
+---
+publish: "false"
+---
+
 Stufe 1: Werte auswürfeln, Fertigkeiten auswählen (3d6 HP)
 
 Stufe 2: [[Seelensteine|Seelenstein]] wählen 
