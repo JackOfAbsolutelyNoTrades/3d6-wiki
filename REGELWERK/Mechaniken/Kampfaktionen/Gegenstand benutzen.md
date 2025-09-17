@@ -1,0 +1,2 @@
+| Du benutzt einen Gegenstand, der sich an deinem Körper befindet. Gegenstände aus dem Rucksack zu benutzen kostet den ganzen Zug. | Siehe beim Gegenstand |
+| -------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
