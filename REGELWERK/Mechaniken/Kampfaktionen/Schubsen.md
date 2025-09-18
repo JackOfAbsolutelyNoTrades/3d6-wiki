@@ -1,2 +1,0 @@
-| Du versuchst dein Ziel zu schubsen. Mach die Probe, bei einem Erfolg kannst du das Ziel entweder 1 Feld von dir wegstoßen oder es den Zustand [[liegend]] geben. | Athletik (STÄ) vs. Athletik (STÄ) o. Akrobatik (GES) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
