@@ -17,4 +17,4 @@ RK 13
 
 - Kurzbogen, +4, 1w6+2 [[Stich]]
     
-- [[REGELWERK/Gegenstände/Waffen| Knochendolch]], +2, 1w6 [[Stich]]
+- [[Waffen| Knochendolch]], +2, 1w6 [[Stich]]
