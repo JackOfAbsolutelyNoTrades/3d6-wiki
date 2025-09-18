@@ -1,0 +1,1 @@
+![[REGELWERK/02 Klassen/Seelensteine/Wächter|Wächter]]
