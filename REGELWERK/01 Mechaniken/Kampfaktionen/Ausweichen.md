@@ -1,0 +1,1 @@
+Angriffe gegen dich sind bis zu deinem nächsten Zug im Nachteil.
