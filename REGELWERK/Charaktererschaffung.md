@@ -14,18 +14,18 @@ Es gibt 4 [[Attribute]]:
 | **Wille (WIL)**        | Magie, Verstand, Wissen                     |
 | **Konstitution (KON)** | Lebenspunkte, Durchhaltevermögen, Zähigkeit |
 
-Würfle **3W6 pro Attribut**  oder nutze das [[Standard-Array]]
-- Weise die Werte STÄ, GES, WIS und KON zu.
-- Lies mit dem Wert den **Bonus** ab: 
+Würfle **3W6 pro Attribut**  oder nutze das **[[Standard-Array]]**
+- Weise die Werte **STÄ**, **GES**, **WIS** und **KON** zu.
+- Lies mit dem Wert den **Modifikator** ab: 
 
-| Wert    | Bonus |
-| ------- | ----- |
-| 3 - 5   | - 2   |
-| 6 - 8   | -1    |
-| 9 - 11  | 0     |
-| 12 - 14 | +1    |
-| 15 - 17 | +2    |
-| 18      | +3    |
+|  Wert   | Modifikator |
+| :-----: | :---------: |
+|  3 - 5  |     - 2     |
+|  6 - 8  |     -1      |
+| 9 - 11  |      0      |
+| 12 - 14 |     +1      |
+| 15 - 17 |     +2      |
+|   18    |     +3      |
 
 
 ### 3. FERTIGKEITEN WÄHLEN
@@ -33,7 +33,7 @@ Würfle **3W6 pro Attribut**  oder nutze das [[Standard-Array]]
 Wähle zu Beginn **3 Fertigkeiten**, in denen dein Charakter besonders geübt ist .
 Diese geben einen Bonus von **+2 auf passende Würfe**.
 
-![[Fertigkeiten]]
+[[Fertigkeiten]]
 
 ### 4. AUSRÜSTUNG & INVENTAR
 ---
