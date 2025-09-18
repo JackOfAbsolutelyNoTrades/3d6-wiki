@@ -1,5 +1,4 @@
 ---
-image: REGELWERK/Charakterbogen_V2
-title: Charakterbogen
+image:
 ---
 ![[Charakterbogen.png]]
