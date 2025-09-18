@@ -1,1 +1,1 @@
-![[Charakterbogen.pdf]]
+![[Charakterbogen.png]]
