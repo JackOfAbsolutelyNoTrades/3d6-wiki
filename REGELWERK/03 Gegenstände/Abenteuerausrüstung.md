@@ -1,0 +1,54 @@
+
+
+| **Gegenstand**                | **Kosten (G)** | **Wirkung / Erklärung**                                                                             | **Eigenschaften**                                              |
+| ----------------------------- | -------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| Rechenschieber                | 2 G            | Erlaubt präzise Berechnungen z.B. für Ballistik oder Kartenlesen                                    | [[Werkzeug]]                                                   |
+| Alchemistenfeuer              | 50 G           | Entzündet bei Aufprall; verursacht W6 Feuerschaden über 1 Runde                                     | [[Verbrauchbar]], [[Entflammbar\|Entflammbar 2]]               |
+| Angelausrüstung               | 1 G            | Zum Fischen geeignet                                                                                | [[Werkzeug]]                                                   |
+| Decke                         | 3 G            | Hält warm und kann als Unterlage dienen                                                             |                                                                |
+| Eisenkeile (5)                | 10 G           | Nützlich zum Blockieren oder Fixieren von Türen                                                     | [[Wiederverwendbar]]                                           |
+| Enterhaken                    | 3 G            | Hilft beim Klettern an Fassaden oder Mauern                                                         | [[Wiederverwendbar]]                                           |
+| Fackel (5)                    | 1 G            | Spendet Licht für 1 Stunde                                                                          | [[Verbrauchbar]], [[Lichtquelle]]                              |
+| Fangeisen (Falle)             | 5 G            | Mechanische Falle, verursacht W6 Schaden bei Auslösung                                              | [[Wiederverwendbar]]                                           |
+| Fernglas                      | 150 G          | Vergrößert Sicht über große Entfernungen                                                            | [[Werkzeug]]                                                   |
+| Flaschenzug                   | 5 G            | Erlaubt Heben schwerer Gegenstände mit halber Kraft                                                 | [[Werkzeug]]                                                   |
+| Gegengift (Phiole)            | 50 G           | Neutralisiert einfache Gifte.                                                                       | [[Verbrauchbar]], [[Trank]]                                    |
+| Gift (einfach, Phiole)        | 100 G          | Verursacht 1W6 Giftschaden pro Runde bis neutralisiert oder maximal 1 Stunde.                       | [[Verbrauchbar]], [[Trank]]                                    |
+| Glocke                        | 1 G            | Gibt bei Bewegung ein deutliches Geräusch                                                           | [[Wiederverwendbar]]                                           |
+| Hammer                        | 1 G            | Werkzeug zum Einschlagen von Nägeln oder Keilen                                                     | [[Werkzeug]]                                                   |
+| Heilerausrüstung              | 5 G            | Verbände, Kräuter und Werkzeuge zur Heilung \| 1w6 Heilung, kann 3x pro kurzer Rast genutzt werden. | [[Werkzeug]]                                                   |
+| Kerze (10)                    | 2 G            | Brennt 1 Stunde, spendet schwaches Licht                                                            | [[Lichtquelle]], [[Verbrauchbar]]                              |
+| Kette (3m)                    | 5 G            | Robuste Metallkette zum Sichern oder Binden                                                         | [[Wiederverwendbar]]                                           |
+| Kletterhaken (5)              | 10 G           | Ergänzt Seile beim Klettern                                                                         | [[Wiederverwendbar]]                                           |
+| Krähenfüße (Beutel, 20 Stück) | 1 G            | Verlangsamen Feinde bei Betreten, verursachen Schaden \| 4 Ladungen                                 | [[Streubar]]                                                   |
+| Kreide (1 Stück)              | 1 G            | Zum Markieren von Wegen oder magischen Zeichen                                                      | [[Verbrauchbar]]                                               |
+| Lampe                         | 1 G            | Spendet Licht mit Öl                                                                                | [[Lichtquelle]]                                                |
+| Laterne (abblendbar)          | 10 G           | Lichtstrahl nach vorne, ideal für Tarnung                                                           | [[Lichtquelle]]                                                |
+| Leiter (3m)                   | 1 G            | Hilft beim Überwinden von Höhen                                                                     | [[Schwer]]                                                     |
+| Metallkügelchen (1000 Stück)  | 1 G            | Streuobjekte, verursachen Rutschen                                                                  | [[Streubar]]                                                   |
+| Öl (Flasche)                  | 1 G            | Brennbar, schmierfähig                                                                              | [[Verbrauchbar]], [[Entflammbar\|Entflammbar 1]], [[Streubar]] |
+| Parfüm (Phiole)               | 5 G            | Überdeckt Gerüche oder zur Etikette                                                                 | [[Verbrauchbar]]                                               |
+| Reisegeschirr                 | 1 G            | Besteck, Schale, Tasse                                                                              | [[Werkzeug]]                                                   |
+| Sanduhr                       | 25 G           | Misst Zeit in ca. 1-Stunden-Schritten                                                               | [[Werkzeug]]                                                   |
+| Säure (Phiole)                | 25 G           | Verursacht W6 Säureschaden                                                                          | [[Verbrauchbar]]                                               |
+| Schaufel                      | 2 G            | Zum Graben                                                                                          | [[Werkzeug]]                                                   |
+| Schlafsack                    | 1 G            | Bequemes Schlafen draußen                                                                           | [[Wiederverwendbar]]                                           |
+| Schloss                       | 10 G           | Erschwert Zugang zu Türen oder Truhen                                                               | [[Wiederverwendbar]]                                           |
+| Schreibutensilien             | 5 G            | Zum Schreiben (Tinte (Flasche, 30 ml), 10 Blatt Papier, Feder)                                      | [[Werkzeug]]                                                   |
+| Seife                         | 1 G            | Zur Reinigung                                                                                       | [[Verbrauchbar]]                                               |
+| Seil aus Hanf (15m)           | 1 G            | Standardkletterseil                                                                                 | [[Wiederverwendbar]]                                           |
+| Siegelutensilien              | 5 G            | Siegelring, Wachs, kleine Kerze                                                                     | [[Werkzeug]]                                                   |
+| Spitzhacke                    | 2 G            | Für Bergbau oder schwere Arbeit                                                                     | [[Werkzeug]]                                                   |
+| Spiegel (Stahl)               | 5 G            | Reflektiert Licht oder zur Sichtprüfung                                                             | [[Werkzeug]]                                                   |
+| Tragbarer Rammbock            | 4 G            | Bricht Türen mit Kraft + [[Vorteil]]                                                                | [[Zweihändig]], [[Schwer]]                                     |
+| Vorschlaghammer               | 2 G            | Mächtiger Hammer für grobe Arbeiten                                                                 | [[Zweihändig]], [[Schwer]]                                     |
+| Weihwasser (Flasche)          | 25 G           | Schädigt Untote beim Kontakt (W6)                                                                   | [[Verbrauchbar]]                                               |
+| Wetzstein                     | 1 G            | Schärft Waffen und Werkzeuge                                                                        | [[Werkzeug]]                                                   |
+| Zelt (2 Personen)             | 2 G            | Schutz vor Wetter                                                                                   | [[Wiederverwendbar]]                                           |
+| Zunderkästchen                | 1 G            | Erzeugt Funken für Feuer                                                                            | [[Werkzeug]]                                                   |
+| Kleiner Heiltrank             | 25 G           | heilt 1d6                                                                                           | [[Verbrauchbar]], [[Trank]]                                    |
+| Mittlerer Heiltrank           | 50 G           | heilt 2d6                                                                                           | [[Verbrauchbar]], [[Trank]]                                    |
+| Großer Heiltrank              | 75 G           | heilt 3d6                                                                                           | [[Verbrauchbar]], [[Trank]]                                    |
+
+---
+[[03 Gegenstände]]
