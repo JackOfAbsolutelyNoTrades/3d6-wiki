@@ -1,3 +1,6 @@
+---
+publish: "false"
+---
 ### Seelensteine (Hauptklasse)
 ```folder-overview
 id: c73ba064-1626-4b52-a15d-fffaf54b0141
