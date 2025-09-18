@@ -1,4 +1,0 @@
-Du bist besonders begabt bei Öffnen von Schlössern und entschärfen von Fallen. Du hast [[Vorteil]] auf beide Würfe.   
-
----
-[[Schurke]]
