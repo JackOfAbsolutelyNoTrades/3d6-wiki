@@ -11,4 +11,4 @@
 - **Erweiterbar:** Ob Wilder Westen, düsterer Horror oder Neon-Cyberpunk – dieses Toolkit lässt sich in jede Richtung biegen.
     
 
-Ein TTRPG für alle, die direkt loslegen wollen – ohne 300 Seiten Regelwerk. Einfach rein, Würfel rollen, Spaß haben
+Ein TTRPG für alle, die direkt loslegen wollen – ohne unnötig kompliziertes Regelwerk. Einfach rein, Würfel rollen, Spaß haben
