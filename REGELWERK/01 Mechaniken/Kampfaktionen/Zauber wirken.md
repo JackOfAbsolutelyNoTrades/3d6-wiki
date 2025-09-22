@@ -1,3 +1,3 @@
 
-| Du wirkst einen Zauber. Mehr Infos bei [Zauber](app://obsidian.md/Zauber). | Siehe beim Zauber |
-| -------------------------------------------------------------------------- | ----------------- |
+| Du wirkst einen Zauber. Mehr Infos bei [[Wie funktioniert Magie]] . | Siehe beim Zauber |
+| ------------------------------------------------------------------- | ----------------- |
