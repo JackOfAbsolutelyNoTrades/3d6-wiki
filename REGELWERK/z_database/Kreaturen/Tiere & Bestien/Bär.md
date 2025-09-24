@@ -1,3 +1,10 @@
+---
+tags:
+  - Kreatur
+  - Stufe-2
+  - Tier-und-Bestien
+---
+
 
 Stufe 2  
 HP 16  
@@ -18,3 +25,5 @@ RK 12
 | ----------- | ------ | ------------- | -------------- | ----------- |
 | Prankenhieb | ...    | `dice: 3d6+2` | `dice: 1d6+4`  | [[Hieb]]    |
 | Biss        | ...    | `dice: 3d6+2` | `dice: 2d6+ 4` | [[Stich]]   |
+
+
