@@ -1,0 +1,1 @@
+Muss mit 2 Händen genutzt werden. 
