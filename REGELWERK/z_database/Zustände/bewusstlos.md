@@ -1,1 +1,0 @@
-Das Ziel ist [[kampfunfähig]], liegend und Nahkampfangriffe gegen das Ziel treffen immer. Treffer gegen das Ziel sind immer Kritische Treffer. Das Ziel erwacht, wenn es von einer anderen Kreatur geweckt wird, Schaden bekommt, nach der Dauer des Effekts oder nach 8H. 
