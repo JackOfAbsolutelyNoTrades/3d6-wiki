@@ -1,5 +1,0 @@
-[[Nachteil]] auf Angriffswürfe 
-
-
----
-[[Zustände]]
