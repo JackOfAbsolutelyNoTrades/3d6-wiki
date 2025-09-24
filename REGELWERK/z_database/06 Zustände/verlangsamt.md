@@ -1,0 +1,1 @@
+Jede Bewegung verbraucht doppelt so viel, wie vorher.
