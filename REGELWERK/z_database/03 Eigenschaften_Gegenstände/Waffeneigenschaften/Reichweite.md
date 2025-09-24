@@ -1,0 +1,1 @@
+Eine Waffe, z.B Eine Stabwaffe wie eine Gleve hat eine erhöhte Angriffsreichweite. Du kannst Gegner innerhalb von 2 Feldern um dich herum angreifen. 
