@@ -1,1 +1,1 @@
-Kann keine Aktionen oder Bewegung nutzen. 
+Kann keine Aktionen nutzen oder sich bewegen. 
