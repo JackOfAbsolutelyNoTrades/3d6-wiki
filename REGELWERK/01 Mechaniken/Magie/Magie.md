@@ -2,4 +2,4 @@
 publish: "false"
 ---
 
-[[Zauber]]
+[[01 Zauber]]
