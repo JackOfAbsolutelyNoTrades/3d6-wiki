@@ -16,5 +16,5 @@ Angriffe
 - Dolch, +1 zum Treffen, 1w6+2 [[Stich]]
 - 2x/Kampf Jeweils Stufe 1: 
 
-  ![[Spruch der Geschwindigkeit]]
-- ![[Feuerstoß]]
+  ![[REGELWERK/z_database/01 Zauber/Zauberschulen/Unterstützung/Spruch der Geschwindigkeit]]
+- ![[REGELWERK/z_database/01 Zauber/Zauberschulen/Zerstörung/Feuerstoß]]
