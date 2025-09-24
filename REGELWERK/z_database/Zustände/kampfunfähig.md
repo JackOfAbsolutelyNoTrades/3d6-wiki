@@ -1,1 +1,0 @@
-Kann keine Aktionen nutzen oder sich bewegen. 
