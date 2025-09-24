@@ -3,7 +3,7 @@ publish: "false"
 ---
 
 
-| **Stufe** | **Effekt** | **Reichweite** | **Kosten** |
+| **Stufe** | **Effekt** | **[[Reichweite]]** | **Kosten** |
 | :-------: | :--------: | :------------: | :--------: |
 |     1     |            |                |    20 G    |
 |     2     |            |                |    50 G    |
