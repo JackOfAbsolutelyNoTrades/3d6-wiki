@@ -1,68 +1,9 @@
 
 
-```folder-overview
-id: 5347f1a7-6122-4760-94ac-1cc3cf195bf2
-folderPath: z_database/Zauber/Zauberschulen
-title: "{{folderName}} overview"
-showTitle: false
-depth: 10
-style: list
-includeTypes:
-  - markdown
-  - folder
-disableFileTag: false
-sortBy: name
-sortByAsc: true
-showEmptyFolders: false
-onlyIncludeSubfolders: false
-storeFolderCondition: true
-showFolderNotes: true
-disableCollapseIcon: true
-alwaysCollapse: false
-autoSync: true
-allowDragAndDrop: true
-hideLinkList: true
-hideFolderOverview: false
-useActualLinks: false
-fmtpIntegration: false
-titleSize: 1
-isInCallout: false
-```
-
-
-
 Bei allen Würfen die zu einem Zauber gehören darf der [[Attribute#Wille|Willemodifikator]] addiert werden. 
 
-```folder-overview
-id: 721f463a-c021-4f7b-8b7a-d8784806d2b7
-folderPath: ""
-title: "{{folderName}} overview"
-showTitle: false
-depth: 4
-style: list
-includeTypes:
-  - folder
-  - markdown
-disableFileTag: false
-sortBy: name
-sortByAsc: true
-showEmptyFolders: false
-onlyIncludeSubfolders: false
-storeFolderCondition: true
-showFolderNotes: true
-disableCollapseIcon: true
-alwaysCollapse: false
-autoSync: true
-allowDragAndDrop: true
-hideLinkList: false
-hideFolderOverview: true
-useActualLinks: true
-fmtpIntegration: false
-titleSize: 1
-isInCallout: false
-```
-<span class="fv-link-list-start" id="721f463a-c021-4f7b-8b7a-d8784806d2b7"></span>
-- Zauberschulen
+
+Zauberschulen
 	- [[REGELWERK/z_database/Zauber/Zauberschulen/Beschwörung/Beschwörung.md|Beschwörung]]
 		- [[REGELWERK/z_database/Zauber/Zauberschulen/Beschwörung/Spektral Hand.md|Spektral Hand]]
 	- [[REGELWERK/z_database/Zauber/Zauberschulen/Erkenntnis/Erkenntnis.md|Erkenntnis]]
@@ -89,4 +30,3 @@ isInCallout: false
 		- [[REGELWERK/z_database/Zauber/Zauberschulen/Zerstörung/Gift versprühen.md|Gift versprühen]]
 		- [[REGELWERK/z_database/Zauber/Zauberschulen/Zerstörung/Magisches Geschoss.md|Magisches Geschoss]]
 		- [[REGELWERK/z_database/Zauber/Zauberschulen/Zerstörung/Schauriger Strahl.md|Schauriger Strahl]]
-<span class="fv-link-list-end" id="721f463a-c021-4f7b-8b7a-d8784806d2b7"></span>
