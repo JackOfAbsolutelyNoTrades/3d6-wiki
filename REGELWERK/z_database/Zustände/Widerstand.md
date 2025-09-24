@@ -1,1 +1,0 @@
-Wirf deine Stufe an d6 und ziehe das Ergebnis vom Schaden ab.
