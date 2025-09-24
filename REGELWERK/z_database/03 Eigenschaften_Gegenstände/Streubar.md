@@ -1,0 +1,1 @@
+Kann pro Ladung in einem **1,5m Radius** verteilt werden pro Aktion. 
