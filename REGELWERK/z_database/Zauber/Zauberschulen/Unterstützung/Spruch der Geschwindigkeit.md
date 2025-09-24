@@ -1,7 +1,10 @@
-## Spruch der Geschwindigkeit
-| **Stufe** |                    **Effekt**                     | **Reichweite** | **Kosten** |
-| :-------: | :-----------------------------------------------: | :------------: | :--------: |
-|     1     |          +2 Felder Bewegung für 1 Runde.          |   Berührung    |    40 G    |
-|     2     | +2 Felder Bewegung für 2 Runden, +1 auf Angriffe. |   Berührung    |    90 G    |
-|     3     | +2 Felder Bewegung für 5 Runden, +2 auf Angriffe. |   Berührung    |   150 G    |
+---
+publish: "true"
+---
+
+| **Stufe** |              **Effekt**              | **Reichweite** | **Kosten** | Dauer    |
+| :-------: | :----------------------------------: | :------------: | :--------: | -------- |
+|     1     |         +2 Felder Bewegung.          |   Berührung    |    40 G    | 1 Runde  |
+|     2     | +2 Felder Bewegung, +1 auf Angriffe. |   Berührung    |    90 G    | 2 Runden |
+|     3     | +2 Felder Bewegung, +2 auf Angriffe. |   Berührung    |   150 G    | 5 Runden |
 Schule: [[Unterstützung]]
