@@ -1,3 +1,9 @@
+---
+tags:
+  - Kreatur
+  - Stufe-1
+  - Humanoid
+---
 Stufe 1
 HP 18 (1w6+3)
 RK 12
