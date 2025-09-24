@@ -1,4 +1,0 @@
-Hiebschaden
-
----
-[[Schadensarten]]
