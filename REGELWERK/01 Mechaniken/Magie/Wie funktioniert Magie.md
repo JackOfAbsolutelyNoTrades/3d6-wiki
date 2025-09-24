@@ -1,11 +1,11 @@
 Magie ist in den Gegenständen gespeichert und kann so genutzt werden. 
 
 Ein [[Zaubergegenstände|Zaubergegenstand]] kann mehrere Plätze für verschiedene [[Zauber]] haben. 
-Diese [[Zauber]] können durch [[REGELWERK/02 Klassen/Splitterklasse/Magier/Magier|Magier]] aus einem [[Zaubergegenstände | Zaubergegenstand]] in einen Anderen befördert werden. 
+Diese [[Zauber]] können durch [[REGELWERK/02 Klassen/Seelensteine/Magier|Magier]] aus einem [[Zaubergegenstände | Zaubergegenstand]] in einen Anderen befördert werden. 
 
 ### Verfügbarkeit
 Jeder von mindestens der Stufe 1 kann [[Zauber]] auf Stufe 1 Zaubern. 
-Um Zauber auf Höheren Stufen zu Zaubern muss man [[REGELWERK/02 Klassen/Seelensteine/Magier]] sein oder es durch eine andere Fähigkeit erlangen. 
+Um Zauber auf Höheren Stufen zu Zaubern muss man [[REGELWERK/02 Klassen/Seelensteine/Magier|Magier]] sein oder es durch eine andere Fähigkeit erlangen. 
 
 ### Zauberslots (ja, genau das.)
 
