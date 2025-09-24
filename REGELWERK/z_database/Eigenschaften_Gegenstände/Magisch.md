@@ -1,1 +1,0 @@
-strahlt eine magische Aura aus
