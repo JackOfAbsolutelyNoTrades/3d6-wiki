@@ -1,1 +1,0 @@
-Die Waffe kann mit einer Hand oder [[Zweihändig]] führen. Bei [[Zweihändig|Zweihändiger]]-Führung erhöhter Schaden.
