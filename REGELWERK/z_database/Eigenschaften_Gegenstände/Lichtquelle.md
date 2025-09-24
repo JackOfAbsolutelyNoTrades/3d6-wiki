@@ -1,1 +1,0 @@
-Strahlt in 9 Metern helles Licht und in weiteren 9 Metern dämmriges Licht aus.
