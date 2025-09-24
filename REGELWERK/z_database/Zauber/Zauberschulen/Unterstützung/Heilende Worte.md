@@ -1,4 +1,7 @@
-## Heilende Worte
+---
+publish: "true"
+---
+
 | **Stufe** |                        **Effekt**                         | **Reichweite** | **Kosten** |
 | :-------: | :-------------------------------------------------------: | :------------: | :--------: |
 |     1     |                 Heilt 1W6 TP bei 1 Ziel.                  |    3 Felder    |    10 G    |
