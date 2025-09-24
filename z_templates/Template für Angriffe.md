@@ -1,3 +1,7 @@
+---
+publish: "false"
+---
+
 ### Template für Angriffe
 | Name | Effekt | Angriffswurf | Schaden     | Schadensart |
 | ---- | ------ | ------------ | ----------- | ----------- |
