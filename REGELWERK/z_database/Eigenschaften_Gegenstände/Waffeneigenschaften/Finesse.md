@@ -1,1 +1,0 @@
-Du kannst Stärke _oder_ Geschicklichkeit für Angriff und Schaden nutzen
