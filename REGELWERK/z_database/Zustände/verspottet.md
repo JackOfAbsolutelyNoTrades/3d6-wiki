@@ -1,1 +1,0 @@
-Muss die Ursprungskreatur angreifen, falls in Angriffsreichweite. Sonst muss sich so schnell es geht auf die Ursprungskreatur zu bewegt werden. 
