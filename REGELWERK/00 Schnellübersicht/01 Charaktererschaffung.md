@@ -44,7 +44,7 @@ Diese geben einen Bonus von **+2 auf passende Würfe**.
 
 
 - Startausrüstung:  
-  → 1 [[Waffen|Waffe]] deiner Wahl oder einen [[Zaubergegenstände#Zauberstab|Zauberstab]] mit 2 [[Zauber]] der Stufe 1, deren Goldwert zusammen nicht mehr als 40 G entspricht. 
+  → 1 [[Waffen|Waffe]] deiner Wahl oder einen [[Zaubergegenstände#Zauberstab|Zauberstab]] mit 2 [[01 Zauber]] der Stufe 1, deren Goldwert zusammen nicht mehr als 40 G entspricht. 
 → 1 Gegenstand für deine Nebenhand (z.B. eine [[Leicht|leichte Waffe]], einen [[Rüstung#Schilde|Schild]])
   → 1 [[Rüstung]] 
   → 1 [[Ausrüstungspakete|Ausrüstungspaket]]
