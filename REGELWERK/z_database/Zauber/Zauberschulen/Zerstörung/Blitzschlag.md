@@ -1,4 +1,7 @@
-## Blitzschlag
+---
+publish: "true"
+---
+
 | **Stufe** |                      **Effekt**                      | **Reichweite** | **Kosten** |
 | :-------: | :--------------------------------------------------: | :------------: | :--------: |
 |     1     |              1W6 [[Blitz]] auf 1 Ziel.               |    8 Felder    |    10 G    |
