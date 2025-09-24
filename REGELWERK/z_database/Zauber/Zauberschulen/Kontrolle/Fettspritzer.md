@@ -1,5 +1,5 @@
 ---
-publish: "true"
+publish:
 ---
 
 | **Stufe** |                   **Effekt**                    | **Reichweite** | **Kosten** | Dauer    |
